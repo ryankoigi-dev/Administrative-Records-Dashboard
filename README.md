@@ -1,9 +1,3 @@
-# Administrative-Records-Dashboard
-A web-based administrative dashboard for managing and analysing institutional records. Designed for public-sector environments, the system allows administrators to search, filter, and generate statistics from structured records data in a clear and trustworthy interface.
-Nice one—here’s a **clean, professional README** you can drop straight into a GitHub repo or submit with a school/attachment project. It’s written for an **Administrative Records Dashboard** in a records management / MIS context (fits perfectly with your background).
-
----
-
 # 📊 Administrative Records Dashboard
 
 ## Overview

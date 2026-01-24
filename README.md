@@ -61,7 +61,7 @@ The dashboard follows a **client–server architecture**:
 
 ---
 
-## Technologies Used *(customizable)*
+## Technologies Used 
 
 * **Frontend:** HTML, CSS, JavaScript (Bootstrap / React optional)
 * **Backend:** Python (Flask/Django) or PHP / Node.js

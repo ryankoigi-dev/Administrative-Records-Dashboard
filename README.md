@@ -122,6 +122,10 @@ The dashboard follows a **client–server architecture**:
 * Advanced reporting and export (PDF/Excel)
 * API integration with other MIS systems
 
+Attached below is a screenshot of the fully functional Administrative Records Dashboard:
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/73ba1d23-bae9-47d8-9ced-d518595565c3" />
+
 ---
 
 ## Contribution
